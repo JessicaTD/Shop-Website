@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" 01 FABRIC ARMCHAIR ",
+        "price": 229,
+        "image": "https://github.com/JessicaTD/Shop-Website/blob/main/image/1.png?raw=true"
+    },
+    {
+        "id": 2,
+        "name":" 02 FABRIC ARMCHAIR",
+        "price": 150,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" 03 FABRIC ARMCHAIR",
+        "price": 190,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" 04 FABRIC ARMCHAIR",
+        "price": 210,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" 05 FABRIC ARMCHAIR",
+        "price": 120,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" 06 FABRIC ARMCHAIR",
+        "price": 200,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" 07 FABRIC ARMCHAIR",
+        "price": 300,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" 08 FABRIC ARMCHAIR",
+        "price": 150,
+        "image": "image/8.png"
+    }
+
+]
